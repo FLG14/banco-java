@@ -1,1 +1,1 @@
-# Exemplo simples de um banco em java. #
+# Exemplo simples de um banco digital em java. #
